@@ -82,7 +82,7 @@ In qualità di interessato, hai diritto di:
 - opporti al trattamento basato sul legittimo interesse del Titolare (art. 21 GDPR);
 - proporre reclamo al Garante per la protezione dei dati personali ([www.garanteprivacy.it](https://www.garanteprivacy.it)), qualora ritenga che il trattamento avvenga in violazione del GDPR.
 
-Per esercitare i tuoi diritti, puoi contattare il Titolare all'indirizzo **[EMAIL DI CONTATTO TITOLARE]**.
+Per esercitare i tuoi diritti, puoi contattare il Titolare all'indirizzo mauro.ledda@gmail.com.
 
 ## 10. Natura del conferimento dei dati
 
