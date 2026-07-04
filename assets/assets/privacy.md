@@ -92,4 +92,4 @@ Il conferimento dei dati (email, ore lavorate e attività) è necessario per l'a
 
 La presente informativa può essere soggetta a modifiche. Eventuali aggiornamenti saranno resi disponibili tramite l'Applicativo, con indicazione della data dell'ultimo aggiornamento.
 
-**Ultimo aggiornamento:** [04/07/2026]
+**Ultimo aggiornamento:** 04/07/2026
