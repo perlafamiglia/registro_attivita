@@ -2,17 +2,17 @@
 
 _ai sensi degli artt. 13 e 14 del Regolamento (UE) 2016/679 ("GDPR")_
 
-**[NOME COOPERATIVA]** — applicativo di gestione ore e attività
+**Perlafamiglia** — applicativo di gestione ore e attività
 
-La presente informativa descrive come **[NOME COOPERATIVA]** (di seguito, la "Cooperativa") tratta i dati personali degli utenti (soci lavoratori, dipendenti o collaboratori) che accedono e utilizzano l'applicativo gestionale per la registrazione delle attività e delle ore di lavoro (di seguito, l'"Applicativo"), in conformità al Regolamento (UE) 2016/679 ("GDPR") e al D.Lgs. 196/2003 come modificato dal D.Lgs. 101/2018 ("Codice Privacy").
+La presente informativa descrive come Perlafamiglia (di seguito, la "Cooperativa") tratta i dati personali degli utenti (soci lavoratori, dipendenti o collaboratori) che accedono e utilizzano l'applicativo gestionale per la registrazione delle attività e delle ore di lavoro (di seguito, l'"Applicativo"), in conformità al Regolamento (UE) 2016/679 ("GDPR") e al D.Lgs. 196/2003 come modificato dal D.Lgs. 101/2018 ("Codice Privacy").
 
 ---
 
 ## 1. Titolare del trattamento
 
-Il Titolare del trattamento è **[NOME COOPERATIVA]**, con sede legale in **[INDIRIZZO SEDE LEGALE]**, C.F./P.IVA **[CODICE FISCALE / P.IVA]**, contattabile all'indirizzo e-mail **[EMAIL DI CONTATTO TITOLARE]**.
+Il Titolare del trattamento è Perlafamiglia, con sede legale in VIA SASSARI 159, 07041, Alghero, Sassari, C.F./P.IVA 02827620903, contattabile all'indirizzo e-mail mauro.ledda@gmail.com
 
-Se nominato, i dati di contatto del Responsabile della Protezione dei Dati (RPD/DPO) sono: **[NOME E CONTATTO DPO, oppure indicare "non nominato" se non obbligatorio]**.
+<!-- Se nominato, i dati di contatto del Responsabile della Protezione dei Dati (RPD/DPO) sono: **[NOME E CONTATTO DPO, oppure indicare "non nominato" se non obbligatorio]**. -->
 
 ## 2. Sviluppatore dell'Applicativo e ruolo nel trattamento
 
@@ -20,7 +20,7 @@ L'Applicativo è stato sviluppato e viene mantenuto da un fornitore esterno indi
 
 | Ruolo | Responsabile del trattamento (fornitore/sviluppatore esterno) |
 |---|---|
-| Soggetto | **[NOME/RAGIONE SOCIALE SVILUPPATORE]** |
+| Soggetto | Giorgio Benedetto |
 | Compiti | Sviluppo, manutenzione tecnica e gestione dell'infrastruttura applicativa per conto della Cooperativa |
 
 ## 3. Categorie di dati personali trattati
@@ -41,7 +41,7 @@ L'Applicativo non raccoglie dati di geolocalizzazione, immagini, documenti alleg
 | Registrazione delle ore lavorate e delle attività svolte | Esecuzione del rapporto di lavoro/collaborazione e adempimento di obblighi legali connessi (artt. 6.1.b e 6.1.c), ivi inclusi gli adempimenti retributivi, contributivi e di rendicontazione interna |
 | Sicurezza informatica e prevenzione di accessi non autorizzati | Legittimo interesse del Titolare (art. 6.1.f) |
 
-> **Nota:** qualora la registrazione delle ore lavorate consenta forme di controllo, anche indiretto, dell'attività dei lavoratori, la Cooperativa è tenuta a verificare il rispetto dell'art. 4 della L. 300/1970 (Statuto dei Lavoratori), inclusa l'eventuale necessità di accordo sindacale o autorizzazione dell'Ispettorato del Lavoro.
+<!-- > **Nota:** qualora la registrazione delle ore lavorate consenta forme di controllo, anche indiretto, dell'attività dei lavoratori, la Cooperativa è tenuta a verificare il rispetto dell'art. 4 della L. 300/1970 (Statuto dei Lavoratori), inclusa l'eventuale necessità di accordo sindacale o autorizzazione dell'Ispettorato del Lavoro. -->
 
 ## 5. Modalità del trattamento
 
@@ -61,7 +61,7 @@ La Cooperativa si impegna a mantenere aggiornata la presente sezione qualora l'i
 - Ore lavorate e attività svolte: per il tempo necessario agli adempimenti retributivi, contributivi, fiscali e di rendicontazione interna, e comunque nel rispetto dei termini di conservazione previsti dalla normativa civilistica e fiscale (in genere 10 anni per i documenti contabili e del lavoro, art. 2220 c.c.);
 - Data di ultimo accesso: non viene conservata storicamente, in quanto il valore viene sovrascritto a ogni nuovo login; non esiste pertanto un registro storico degli accessi.
 
-> **Nota:** l'assenza di un log storico degli accessi (necessario invece per finalità di sicurezza e accountability) è un aspetto che la Cooperativa potrebbe voler rivalutare in fase di hardening del sistema, mantenendo un log minimale con retention limitata e motivata (es. 6-12 mesi) per finalità di sicurezza, distinta dalla logica applicativa dell'"ultimo accesso".
+<!-- > **Nota:** l'assenza di un log storico degli accessi (necessario invece per finalità di sicurezza e accountability) è un aspetto che la Cooperativa potrebbe voler rivalutare in fase di hardening del sistema, mantenendo un log minimale con retention limitata e motivata (es. 6-12 mesi) per finalità di sicurezza, distinta dalla logica applicativa dell'"ultimo accesso". -->
 
 ## 8. Comunicazione e diffusione dei dati
 
@@ -93,4 +93,4 @@ Il conferimento dei dati (email, ore lavorate e attività) è necessario per l'a
 
 La presente informativa può essere soggetta a modifiche. Eventuali aggiornamenti saranno resi disponibili tramite l'Applicativo, con indicazione della data dell'ultimo aggiornamento.
 
-**Ultimo aggiornamento:** [GG/MM/AAAA]
+**Ultimo aggiornamento:** [04/07/2026]
