@@ -16,12 +16,11 @@ Il Titolare del trattamento è Perlafamiglia, con sede legale in VIA SASSARI 159
 
 ## 2. Sviluppatore dell'Applicativo e ruolo nel trattamento
 
-L'Applicativo è stato sviluppato e viene mantenuto da un fornitore esterno indicato di seguito, che opera su incarico della Cooperativa in qualità di Responsabile del trattamento ai sensi dell'art. 28 GDPR, in base a un accordo scritto (Data Processing Agreement) che ne disciplina finalità, durata, natura e obblighi di sicurezza.
+L'Applicativo è stato sviluppato e viene mantenuto da un fornitore esterno, che opera su incarico della Cooperativa in qualità di Responsabile del trattamento ai sensi dell'art. 28 GDPR.
 
-| Ruolo | Responsabile del trattamento (fornitore/sviluppatore esterno) |
-|---|---|
-| Soggetto | Giorgio Benedetto |
-| Compiti | Sviluppo, manutenzione tecnica e gestione dell'infrastruttura applicativa per conto della Cooperativa |
+<!-- , in base a un accordo scritto (Data Processing Agreement) che ne disciplina finalità, durata, natura e obblighi di sicurezza. -->
+
+**Compiti:** Sviluppo, manutenzione tecnica e gestione dell'infrastruttura applicativa per conto della Cooperativa.
 
 ## 3. Categorie di dati personali trattati
 
