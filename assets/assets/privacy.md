@@ -14,15 +14,8 @@ Il Titolare del trattamento è Perlafamiglia, con sede legale in VIA SASSARI 159
 
 <!-- Se nominato, i dati di contatto del Responsabile della Protezione dei Dati (RPD/DPO) sono: **[NOME E CONTATTO DPO, oppure indicare "non nominato" se non obbligatorio]**. -->
 
-## 2. Sviluppatore dell'Applicativo e ruolo nel trattamento
 
-L'Applicativo è stato sviluppato e viene mantenuto da un fornitore esterno, che opera su incarico della Cooperativa in qualità di Responsabile del trattamento ai sensi dell'art. 28 GDPR.
-
-<!-- , in base a un accordo scritto (Data Processing Agreement) che ne disciplina finalità, durata, natura e obblighi di sicurezza. -->
-
-**Compiti:** Sviluppo, manutenzione tecnica e gestione dell'infrastruttura applicativa per conto della Cooperativa.
-
-## 3. Categorie di dati personali trattati
+## 2. Categorie di dati personali trattati
 
 Nell'ambito dell'utilizzo dell'Applicativo sono trattate le seguenti categorie di dati:
 
@@ -32,7 +25,7 @@ Nell'ambito dell'utilizzo dell'Applicativo sono trattate le seguenti categorie d
 
 L'Applicativo non raccoglie dati di geolocalizzazione, immagini, documenti allegati né altre categorie particolari di dati ai sensi dell'art. 9 GDPR.
 
-## 4. Finalità del trattamento e base giuridica
+## 3. Finalità del trattamento e base giuridica
 
 | Finalità | Base giuridica (art. 6 GDPR) |
 |---|---|
@@ -42,11 +35,11 @@ L'Applicativo non raccoglie dati di geolocalizzazione, immagini, documenti alleg
 
 <!-- > **Nota:** qualora la registrazione delle ore lavorate consenta forme di controllo, anche indiretto, dell'attività dei lavoratori, la Cooperativa è tenuta a verificare il rispetto dell'art. 4 della L. 300/1970 (Statuto dei Lavoratori), inclusa l'eventuale necessità di accordo sindacale o autorizzazione dell'Ispettorato del Lavoro. -->
 
-## 5. Modalità del trattamento
+## 4. Modalità del trattamento
 
 I dati sono trattati con strumenti informatici, con logiche strettamente correlate alle finalità sopra indicate e, comunque, in modo da garantirne la sicurezza e la riservatezza. L'accesso ai dati è consentito esclusivamente al personale autorizzato della Cooperativa e al Responsabile del trattamento, nei limiti necessari allo svolgimento dei rispettivi compiti.
 
-## 6. Luogo del trattamento e infrastruttura tecnica
+## 5. Luogo del trattamento e infrastruttura tecnica
 
 I dati sono conservati su infrastruttura cloud fornita da **Supabase Inc.**, con database primario ospitato in un data center situato in Germania (Unione Europea).
 
@@ -54,7 +47,7 @@ Supabase Inc. è una società con sede negli Stati Uniti che agisce quale sub-re
 
 La Cooperativa si impegna a mantenere aggiornata la presente sezione qualora l'infrastruttura tecnica o i fornitori utilizzati dovessero cambiare.
 
-## 7. Periodo di conservazione dei dati
+## 6. Periodo di conservazione dei dati
 
 - Email e dati identificativi dell'account: per tutta la durata del rapporto associativo/di lavoro con la Cooperativa, e successivamente nei termini previsti dalla normativa applicabile;
 - Ore lavorate e attività svolte: per il tempo necessario agli adempimenti retributivi, contributivi, fiscali e di rendicontazione interna, e comunque nel rispetto dei termini di conservazione previsti dalla normativa civilistica e fiscale (in genere 10 anni per i documenti contabili e del lavoro, art. 2220 c.c.);
@@ -62,7 +55,7 @@ La Cooperativa si impegna a mantenere aggiornata la presente sezione qualora l'i
 
 <!-- > **Nota:** l'assenza di un log storico degli accessi (necessario invece per finalità di sicurezza e accountability) è un aspetto che la Cooperativa potrebbe voler rivalutare in fase di hardening del sistema, mantenendo un log minimale con retention limitata e motivata (es. 6-12 mesi) per finalità di sicurezza, distinta dalla logica applicativa dell'"ultimo accesso". -->
 
-## 8. Comunicazione e diffusione dei dati
+## 7. Comunicazione e diffusione dei dati
 
 I dati personali non sono diffusi né comunicati a terzi per finalità commerciali o di marketing. Possono essere comunicati, nei limiti strettamente necessari:
 
@@ -70,7 +63,7 @@ I dati personali non sono diffusi né comunicati a terzi per finalità commercia
 - a consulenti del lavoro, commercialisti o enti previdenziali/fiscali, ove necessario per gli adempimenti connessi al rapporto di lavoro;
 - ad autorità pubbliche, se richiesto da obblighi di legge.
 
-## 9. Diritti dell'interessato
+## 8. Diritti dell'interessato
 
 In qualità di interessato, hai diritto di:
 
@@ -84,11 +77,11 @@ In qualità di interessato, hai diritto di:
 
 Per esercitare i tuoi diritti, puoi contattare il Titolare all'indirizzo mauro.ledda@gmail.com.
 
-## 10. Natura del conferimento dei dati
+## 9. Natura del conferimento dei dati
 
 Il conferimento dei dati (email, ore lavorate e attività) è necessario per l'accesso e l'utilizzo dell'Applicativo e per l'esecuzione del rapporto di lavoro/collaborazione con la Cooperativa. Il mancato conferimento comporta l'impossibilità di utilizzare l'Applicativo e di procedere alla rendicontazione delle attività svolte.
 
-## 11. Modifiche alla presente informativa
+## 10. Modifiche alla presente informativa
 
 La presente informativa può essere soggetta a modifiche. Eventuali aggiornamenti saranno resi disponibili tramite l'Applicativo, con indicazione della data dell'ultimo aggiornamento.
 
